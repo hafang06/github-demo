@@ -49,7 +49,11 @@ signed main()
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     cout.tie(0);
+<<<<<<< HEAD
     cout << "nothing here";
+=======
+    cout << "test conflict time baby";
+>>>>>>> 9ce9d203ccb80d5ce28a323ab525e9f12174e5d4
     cerr << "\nTime elapsed: " << 1000.0 * clock() / CLOCKS_PER_SEC << " ms.\n";
     return 0;
 }
